@@ -1,0 +1,5 @@
+*{ margin: 0; padding: 0; text-decoration: none; list-style: none; }
+html{ font-size: 62.5%; -webkit-text-size-adjust:none;}
+a{ color: #333;}
+#app{ max-width: 750px; min-width: 320px; width: 100%; margin: 0 auto;}
+/* .box{ font-size: .14rem; line-height: .14rem;} */
